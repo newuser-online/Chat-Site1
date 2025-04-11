@@ -117,7 +117,21 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Interpol Support
+
+Interpol is an international organization dedicated to facilitating cooperation among law enforcement agencies worldwide. Our mission is to enhance global safety and security through collaboration and support. The Interpol Support team is responsible for:
+
+1. Facilitating International Cooperation: We help coordinate cross-border investigations to combat transnational crime.
+
+2. Providing Crime Information and Intelligence: Offering valuable insights and data to assist member countries in solving crimes effectively.
+
+3. Supporting Financial Investigations and Recovery: Assisting in the investigation of financial crimes and helping to recover illicitly obtained assets.
+
+4. Executing Justice Against Criminals: Collaborating with member states to ensure the apprehension and prosecution of fugitives involved in serious crimes.
+
+5. Ensuring Security and Compliance: Assisting countries in strengthening their security measures and compliance with international standards.
+
+Please report all illegal and crime/scam and fraudulent activities to our official support here. We are here to help and are committed to making the world a safer place for everyone..</p>
           </div>
         `
         break
